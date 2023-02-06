@@ -13,4 +13,4 @@ Design a SoftwareCompany database
 
 The database scheme of the software company is designed : 
 
-![Bildschirmfoto 2023-02-06 um 14 11 18](https://user-images.githubusercontent.com/120198895/216957105-3b01afad-39c7-461a-8292-470e478f5289.png)
+![Bildschirmfoto 2023-02-06 um 15 40 39](https://user-images.githubusercontent.com/120198895/216973957-9d3b838b-34d1-4300-bf77-5ea7ce85c0ca.png)
