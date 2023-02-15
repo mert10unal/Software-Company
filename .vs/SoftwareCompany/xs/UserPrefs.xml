@@ -1,17 +1,18 @@
-﻿<Properties StartupConfiguration="{E1591455-97BA-43A4-B283-CB5AAC88AD9B}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E1591455-97BA-43A4-B283-CB5AAC88AD9B}|Default">
   <MonoDevelop.Ide.ItemProperties.SoftwareCompany PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="SoftwareCompany/Worker.cs">
     <Files>
-      <File FileName="SoftwareCompany/Program.cs" Line="1" Column="1" />
-      <File FileName="SoftwareCompany/CompanyBoard.cs" Line="11" Column="44" />
+      <File FileName="SoftwareCompany/Program.cs" />
+      <File FileName="SoftwareCompany/CompanyBoard.cs" Line="1" Column="1" />
       <File FileName="SoftwareCompany/Worker.cs" Line="11" Column="1" />
-      <File FileName="SoftwareCompany/WorkerContract.cs" Line="15" Column="1" />
-      <File FileName="SoftwareCompany/Contract.cs" Line="11" Column="67" />
-      <File FileName="SoftwareCompany/Project.cs" Line="12" Column="41" />
-      <File FileName="SoftwareCompany/WorkerProject.cs" Line="11" Column="39" />
+      <File FileName="SoftwareCompany/WorkerContract.cs" />
+      <File FileName="SoftwareCompany/Contract.cs" />
+      <File FileName="SoftwareCompany/Project.cs" />
+      <File FileName="SoftwareCompany/WorkerProject.cs" />
+      <File FileName="SoftwareCompany/DetailBoard.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,7 +24,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
