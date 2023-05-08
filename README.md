@@ -16,6 +16,8 @@ The database scheme of the software company is designed :
 ![Bildschirmfoto 2023-02-15 um 14 35 27](https://user-images.githubusercontent.com/120198895/219016833-ebb6656f-49b3-409d-969d-bf13b6095d03.png)
 
 
+Sql codes of the SoftwareCompany database :
+
 create table Company(
 Id int primary key GENERATED ALWAYS AS IDENTITY,
 CompanyName character varying(100),
